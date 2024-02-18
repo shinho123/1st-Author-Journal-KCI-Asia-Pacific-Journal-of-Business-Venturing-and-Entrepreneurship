@@ -75,8 +75,13 @@
 #### Covid-19 이후 토픽별 상위 10개 키워드
 ![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/1d8e3a1a-7525-4c92-93d3-bf26b6f546b8)
 
+#### Doc2vec & Clustering
 
+##### Covid-19 이전 군집별 대표되는 상위 10개 키워드
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/727e3361-9e22-483a-afa5-4c3f66ead014)
 
+##### Covid-19 이후 군집별 대표되는 상위 10개 키워드
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/e6f8099a-a859-402b-bd10-0f9562f11d14)
 
 
 ## Ⅴ. 결론
