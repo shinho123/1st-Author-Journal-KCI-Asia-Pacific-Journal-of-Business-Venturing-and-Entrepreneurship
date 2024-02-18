@@ -42,7 +42,41 @@
 
 ![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/26decd08-2f30-462f-bc9b-fe8af2b1395c)
 
-
 #### 산업별 기업 수 변화 분석
+
+##### Covid-19 이전 상위 10개 산업의 기업 수 비율 변화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/90af1f24-a82b-4c68-bcc7-88c01e8c1ad8)
+
+##### Covid-19 이후 상위 10개 산업의 기업 수 비율 변화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/feac1a5e-a0b2-4ae5-805c-dd4a66abfacd)
+
+### Network analysis
+
+#### Industry groups network analysis
+
+##### Covid-19 이전 산업군 네트워크 시각화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/a4e939db-fd95-4e3e-a749-ea730747eaff)
+
+##### Covid-19 이후 산업군 네트워크 시각화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/51b037c0-82c8-489d-b73a-5b7e20affa2b)
+
+#### Industries network analysis
+
+##### Covid-19 이전 산업 네트워크 시각화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/bd626fe3-fa0b-4936-b521-bb9b84ddcfe2)
+
+##### Covid-19 이후 산업 네트워크 시각화
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/6af3db76-72fd-4918-9049-13e5b36785bc)
+
+### Topic modeling
+#### Covid-19 이전 토픽별 상위 10개 키워드
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/832eed5f-5465-4023-a2dc-277551c77b0e)
+
+#### Covid-19 이후 토픽별 상위 10개 키워드
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/1d8e3a1a-7525-4c92-93d3-bf26b6f546b8)
+
+
+
+
 
 ## Ⅴ. 결론
