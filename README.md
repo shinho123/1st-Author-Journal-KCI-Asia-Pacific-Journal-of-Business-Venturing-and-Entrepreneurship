@@ -29,10 +29,20 @@
 * Gephi를 활용하여 키워드를 활용한 키워드 네트워크 분석을 수행
 
 ### 4. Topic modeling
-* 
-
+* LDA 토픽 모델링 기법을 통해 산업들이 소유한 기술 토픽을 추출하고 Covid-19 기간 동안 어떠한 기술의 변화가 있는지, 유망·쇠퇴한 기술의 양상이 어떠한지 분석
+  
 ### 5. Doc2vec & Clustering
+* 기업의 설명을 담고 있는 요약 설명 속성에 임베딩을 수행하고 K-Means 알고리즘으로 군집화를 통해 Covid-19 이전과 이후 기술 키워드의 변화를 분석
 
 ## Ⅳ. 연구 결과
+
+### Descriptive analysis
+
+#### 창립연도별 기업 수 변화 분석
+
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/26decd08-2f30-462f-bc9b-fe8af2b1395c)
+
+
+#### 산업별 기업 수 변화 분석
 
 ## Ⅴ. 결론
