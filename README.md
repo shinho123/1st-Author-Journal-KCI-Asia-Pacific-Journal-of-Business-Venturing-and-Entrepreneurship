@@ -83,5 +83,8 @@
 ##### Covid-19 이후 군집별 대표되는 상위 10개 키워드
 ![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/e6f8099a-a859-402b-bd10-0f9562f11d14)
 
+### LDA, Doc2vec & Clustering 비교 분석
+![image](https://github.com/shinho123/1st-Author-Journal-KCI-Asia-Pacific-Journal-of-Business-Venturing-and-Entrepreneurship/assets/105840783/5233c65a-f277-46f5-a8cb-f25013aaff5f)
+
 
 ## Ⅴ. 결론
